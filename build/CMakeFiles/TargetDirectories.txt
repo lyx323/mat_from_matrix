@@ -1,0 +1,3 @@
+/home/lyx/personal/my-git/read_matrix/build/CMakeFiles/rebuild_cache.dir
+/home/lyx/personal/my-git/read_matrix/build/CMakeFiles/edit_cache.dir
+/home/lyx/personal/my-git/read_matrix/build/CMakeFiles/readmatrix.dir
